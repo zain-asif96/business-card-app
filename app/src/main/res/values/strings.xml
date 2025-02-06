@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Business Card App</string>
+    <string name="full_name">David Beckham</string>
+    <string name="jd">Android Developer</string>
+    <string name="phone_number">+00 (99) 000 000</string>
+    <string name="email_address">contact@db.com</string>
+    <string name="fb_handle">\@\david_beckham</string>
 </resources>
